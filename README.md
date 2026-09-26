@@ -2,6 +2,8 @@
 
 # sedekah.je
 
+# contoh
+
 <img src="https://sedekah.je/sedekahje-og.png" alt="sedekah.je banner" />
 
 </div>
